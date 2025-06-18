@@ -1,0 +1,5 @@
+SW Bin,Desc,Site,Site%,Device#,Bin%,Good Bin,Reprobe Bin
+"1860","Fail_Spec_Levels01_Min",1,150,30,37.5,1,0
+"14","Fail_OS_OpenPin",3,150,30,37.5,1,0
+"42","Fail_Scan_Atpg02_Min",2,50,10,12.5,1,0
+"100","Fail_Func_Peri01_Min",4,50,10,12.5,1,0

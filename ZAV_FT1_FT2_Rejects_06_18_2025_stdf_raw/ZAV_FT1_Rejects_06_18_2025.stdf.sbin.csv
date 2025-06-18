@@ -1,0 +1,4 @@
+SW Bin,Desc,Site,Site%,Device#,Bin%,Good Bin,Reprobe Bin
+"1","Good_1",1,277.8,50,69.4,1,0
+"1930","Fail_Iddq_Iddq01S2",4,116.7,21,29.2,1,0
+"14","Fail_OS_OpenPin",4,5.6,1,1.4,1,0

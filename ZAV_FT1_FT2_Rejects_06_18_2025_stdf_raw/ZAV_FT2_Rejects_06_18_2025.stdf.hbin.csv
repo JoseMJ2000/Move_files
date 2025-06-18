@@ -1,0 +1,4 @@
+HW Bin,Desc,Site,Site%,Device#,Bin%
+10,"Fail_Func_Max",1,200,40,50
+8,"Fail_OS",3,150,30,37.5
+7,"Fail_Func_Min",4,50,10,12.5
